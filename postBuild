@@ -1,2 +1,2 @@
-jupyter nbextension install --py ordo
-jupyter nbextension enable ordo --py
+jupyter nbextension install --sys-prefix --py ordo
+jupyter nbextension enable --sys-prefix ordo --py
