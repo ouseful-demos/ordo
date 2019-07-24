@@ -1,0 +1,2 @@
+jupyter nbextension install --py ordo
+jupyter nbextension enable ordo --py
